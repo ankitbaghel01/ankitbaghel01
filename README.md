@@ -1,12 +1,15 @@
 💫 About Me:
 
 🔭 I’m currently working on:
+
 Improving Web Development skills and creating projects.
 
 👯 I’m looking to collaborate on:
+
 Fullstack projects
 
 🌱 I’m currently learning:
+
 Backend Development and APIs.
 
 💬 Ask me about:
