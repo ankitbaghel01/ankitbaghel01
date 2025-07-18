@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving Fullstack Development skill and creating projects.<br><br>👯 **I’m looking to collaborate on:**  <br>DevOps projects<br><br>🌱 **I’m currently learning:**  <br>AWS <br><br>💬 **Ask me about:**  <br>Java, JavaScript, React, Node js, Express.<br><br>⚡ **Fun fact:**  <br>I think I'm Coder.
+🔭 **I’m currently working on:**  <br>Improving Fullstack Development skill and creating projects.<br><br>👯 **I’m looking to collaborate on:**  <br>DevOps projects<br><br>🌱 **I’m currently learning:**  <br>AWS <br><br>💬 **Ask me about:**  <br>Java, JavaScript, React, Node js, Express.<br><br>⚡ **Fun fact:**  <br>I think, I'm Coder.
 
 
 ## 🌐 Socials:
